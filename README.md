@@ -15,9 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/WwzFwz/WwzFwz">
-  <img height=200 align="center" src="https://wwz-fwz-readme.vercel.app/api?username=WwzFwz" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://wwz-fwz-readme.vercel.app/api/top-langs?username=WwzFwz&layout=compact&langs_count=8&card_width=320" />
-</a>
